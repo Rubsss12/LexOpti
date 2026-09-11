@@ -1,6 +1,7 @@
 # CRM & Marketing Automation Manager
 
-> ⚠️ FICHE FICTIVE — jeu de test pour agent de pré-tri. Ne pas publier.
+> 🔒 DOCUMENT INTERNE — grille de notation. Ne jamais transmettre à l'agent évalué :
+> elle contient les pièges du corpus. Ce qu'on envoie à l'agent, c'est `offres/`.
 
 **Entité** : HUB Institute — Pôle Marketing
 **Lieu** : Paris 9e, hybride (2j sur site)

@@ -16,12 +16,28 @@ d'emploi ni mélangé à de vraies candidatures.
 ## Contenu
 
 ```
-postes/              5 fiches de poste
-cv/                  20 CV en texte libre
-cv-pdf/              les 20 mêmes CV en PDF, mise en page de CV
-verite-terrain.csv   le verdict attendu pour chaque CV, avec son motif
-outils-md2pdf.py     régénère les PDF depuis les fichiers texte
+offres/              5 offres d'emploi, format publiable      ← à envoyer à l'agent
+offres-pdf/          les 5 mêmes offres en PDF                ← à envoyer à l'agent
+cv/                  20 CV en texte libre                     ← à envoyer à l'agent
+cv-pdf/              les 20 mêmes CV en PDF                   ← à envoyer à l'agent
+criteres/            les grilles de notation, une par poste   🔒 INTERNE
+verite-terrain.csv   le verdict attendu pour chaque CV        🔒 INTERNE
+outils-md2pdf.py     régénère les PDF des CV
+outils-md2offre.py   régénère les PDF des offres
 ```
+
+## Ce qui se transmet et ce qui ne se transmet pas
+
+`offres/` est ce qu'un candidat lirait : mission, responsabilités, profil recherché,
+processus. Rien d'autre.
+
+`criteres/` contient la même chose plus les **signaux d'alerte**, c'est-à-dire la
+description explicite des pièges du corpus (« vocabulaire IA abondant sans réalisation
+chiffrée », « expérience uniquement B2C »). Ces fichiers servent à noter, jamais à
+alimenter l'agent. Les lui donner reviendrait à lui souffler la moitié des réponses.
+
+Même principe que pour les CV : ni verdict attendu, ni appartenance à une paire de
+contrôle ne doivent apparaître dans ce que l'agent reçoit.
 
 Les CV ne portent **aucune marque du test** : ni verdict attendu, ni appartenance à
 une paire de contrôle. Un agent qui lirait « paire de contrôle A » dans le document
@@ -29,13 +45,15 @@ saurait qu'il est évalué, et le test ne vaudrait plus rien. Toute la correspon
 vit dans `verite-terrain.csv` uniquement.
 
 Envoyez les PDF plutôt que les fichiers texte : vous testez alors aussi l'extraction,
-qui est le premier endroit où ces agents cassent en vrai.
+qui est le premier endroit où ces agents cassent en vrai. L'offre 01 tient sur deux
+pages, les quatre autres sur une seule.
 
 Répartition : 4 candidats par poste. 10 à retenir, 6 à discuter, 4 à écarter.
 
 ## Comment s'en servir
 
-Envoyez chaque CV à l'agent avec la fiche de poste correspondante, demandez un
+Envoyez chaque CV à l'agent avec l'offre correspondante (`offres/`, jamais
+`criteres/`), demandez un
 verdict (`RETENIR` / `A_DISCUTER` / `ECARTER`), un score et une justification.
 Comparez ensuite à `verite-terrain.csv`.
 
