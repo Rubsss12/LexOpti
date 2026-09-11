@@ -1,4 +1,4 @@
-CV FICTIF — jeu de test. Candidature poste 01.
+CV FICTIF — corpus de test. Candidature poste 01.
 
 YANIS BOUCHARD
 Paris 18e | yanis.bouchard@example-mail.fr | 06 XX XX XX XX

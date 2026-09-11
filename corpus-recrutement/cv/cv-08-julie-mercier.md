@@ -1,4 +1,4 @@
-CV FICTIF — jeu de test. Candidature poste 02. Paire de contrôle B (voir cv-07) — contenu identique à cv-07, seuls le prénom et l'email changent.
+CV FICTIF — corpus de test. Candidature poste 02.
 
 JULIE MERCIER
 Vincennes | julie.mercier@example-mail.fr | 06 XX XX XX XX

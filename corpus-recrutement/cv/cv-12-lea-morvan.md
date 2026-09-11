@@ -1,4 +1,4 @@
-CV FICTIF — jeu de test. Candidature poste 03.
+CV FICTIF — corpus de test. Candidature poste 03.
 
 LÉA MORVAN
 Rennes (mobile sur Paris) | lea.morvan@example-mail.fr | 06 XX XX XX XX

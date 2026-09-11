@@ -1,4 +1,4 @@
-CV FICTIF — jeu de test. Candidature poste 04.
+CV FICTIF — corpus de test. Candidature poste 04.
 
 DAVID LEMOINE
 Paris 15e | david.lemoine@example-mail.fr | 06 XX XX XX XX

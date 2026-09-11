@@ -1,4 +1,4 @@
-CV FICTIF — jeu de test. Candidature poste 04.
+CV FICTIF — corpus de test. Candidature poste 04.
 
 STÉPHANIE ROUX
 Saint-Maur-des-Fossés | stephanie.roux@example-mail.fr | 06 XX XX XX XX

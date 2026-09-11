@@ -1,4 +1,4 @@
-CV FICTIF — jeu de test. Candidature poste 05.
+CV FICTIF — corpus de test. Candidature poste 05.
 
 VINCENT ALONSO
 Nanterre | vincent.alonso@example-mail.fr | 06 XX XX XX XX

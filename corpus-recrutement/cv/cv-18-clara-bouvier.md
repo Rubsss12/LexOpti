@@ -1,4 +1,4 @@
-CV FICTIF — jeu de test. Candidature poste 05.
+CV FICTIF — corpus de test. Candidature poste 05.
 
 CLARA BOUVIER
 Paris 13e (installée en France depuis 2024) | clara.bouvier@example-mail.fr

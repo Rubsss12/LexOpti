@@ -1,4 +1,4 @@
-CV FICTIF — jeu de test. Candidature poste 03. Paire de contrôle A (voir cv-11).
+CV FICTIF — corpus de test. Candidature poste 03.
 
 THOMAS LEFÈVRE
 Ivry-sur-Seine | thomas.lefevre@example-mail.fr | 06 XX XX XX XX

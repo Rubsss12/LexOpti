@@ -1,4 +1,4 @@
-CV FICTIF — jeu de test. Candidature poste 05.
+CV FICTIF — corpus de test. Candidature poste 05.
 
 FANNY TOUSSAINT
 Paris 19e | fanny.toussaint@example-mail.fr | 06 XX XX XX XX

@@ -1,4 +1,4 @@
-CV FICTIF — jeu de test. Candidature poste 02. Paire de contrôle A (voir cv-08).
+CV FICTIF — corpus de test. Candidature poste 02.
 
 JULIEN MERCIER
 Vincennes | julien.mercier@example-mail.fr | 06 XX XX XX XX

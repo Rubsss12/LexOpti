@@ -1,4 +1,4 @@
-CV FICTIF — jeu de test. Candidature poste 01.
+CV FICTIF — corpus de test. Candidature poste 01.
 
 CAMILLE FONTAINE
 Paris 11e | camille.fontaine@example-mail.fr | 06 XX XX XX XX

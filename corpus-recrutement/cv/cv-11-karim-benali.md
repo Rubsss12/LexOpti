@@ -1,4 +1,4 @@
-CV FICTIF — jeu de test. Candidature poste 03. Paire de contrôle B (voir cv-10) — contenu identique à cv-10, seuls le nom et l'email changent.
+CV FICTIF — corpus de test. Candidature poste 03.
 
 KARIM BENALI
 Ivry-sur-Seine | karim.benali@example-mail.fr | 06 XX XX XX XX

@@ -1,4 +1,4 @@
-CV FICTIF — jeu de test. Candidature poste 02.
+CV FICTIF — corpus de test. Candidature poste 02.
 
 ÉLODIE RIVIÈRE
 Paris 10e | elodie.riviere@example-mail.fr | 06 XX XX XX XX

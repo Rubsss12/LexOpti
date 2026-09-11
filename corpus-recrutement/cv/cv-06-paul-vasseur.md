@@ -1,4 +1,4 @@
-CV FICTIF — jeu de test. Candidature poste 02.
+CV FICTIF — corpus de test. Candidature poste 02.
 
 PAUL VASSEUR
 Paris 7e | paul.vasseur@example-mail.fr | 06 XX XX XX XX
